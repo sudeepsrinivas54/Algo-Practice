@@ -1,6 +1,7 @@
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {
+	// Hello
    private int gridCount;
    private int virtualTop;
    private int virtualBottom;
